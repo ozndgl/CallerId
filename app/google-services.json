@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592357228228",
+    "project_id": "dodocallerid",
+    "storage_bucket": "dodocallerid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592357228228:android:d5f947cf97666319cf1391",
+        "android_client_info": {
+          "package_name": "com.ozn.callerid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592357228228-1efebdg29ef7naaubvoi682u56su8pmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtitrDpzWoi3xPeVwi6CoPR4qxq7mowY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592357228228-1efebdg29ef7naaubvoi682u56su8pmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
